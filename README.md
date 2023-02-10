@@ -13,3 +13,10 @@ I'm currently studying B.Sc. Applied Mathematics and Informatics at [FH Aachen -
 </p>
 
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=niklasdie&show_icons=true&locale=en&layout=compact" alt="niklasdie" /></p>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=niklasdie&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="Niklas Diekhöner's github stats" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niklasdie&layout=compact&theme=dark&hide_border=true" />
+  </a>
