@@ -3,16 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=niklasdie&label=Profile%20views&color=0e75b6&style=flat" alt="niklasdie" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=niklasdie" alt="niklasdie" /></a> </p>
+I'm Niklas Diekhöner, a 22-year-old software developer based in Eschweiler, Germany. 
 
-- I’m currently working on **my bachelor thesis**
-
-- I’m currently studying **B.Sc. Applied Mathematics and Informatics**
-
-- Reach me at **niklas.diekhoener@rwth-aachen.de**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
 <a href="https://linkedin.com/in/niklas diekhöner" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="niklas diekhöner" height="30" width="40" /></a>
 </p>
 
