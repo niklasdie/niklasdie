@@ -1,4 +1,4 @@
-## Hey (https://www.youtube.com/channel/UCietjxpksncMdOUkycv5nqA)  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">
+## Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">
 
 I'm Niklas Diekhöner, a 22-year-old software developer based in Eschweiler, Germany.
 I'm currently studying B.Sc. Applied Mathematics and Informatics at [FH Aachen - University of Applied Sciences](https://www.fh-aachen.de/) and a trainee at CAE GmbH in Stolberg.
