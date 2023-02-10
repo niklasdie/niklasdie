@@ -1,5 +1,3 @@
-I'm Niklas Diekhöner, a 22-year-old software developer based in Eschweiler, Germany.
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=niklasdie&label=Profile%20views&color=0e75b6&style=flat" alt="niklasdie" /> </p>
 
 I'm Niklas Diekhöner, a 22-year-old software developer based in Eschweiler, Germany.
