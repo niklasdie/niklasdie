@@ -1,5 +1,4 @@
-<h1 align="center">Hi, I'm Niklas Diekhöner</h1>
-<h3 align="center">A 22-year-old software developer based in Eschweiler, Germany.</h3>
+I'm Niklas Diekhöner, a 22-year-old software developer based in Eschweiler, Germany.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=niklasdie&label=Profile%20views&color=0e75b6&style=flat" alt="niklasdie" /> </p>
 
