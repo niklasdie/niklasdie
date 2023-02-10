@@ -14,7 +14,7 @@ I'm currently studying B.Sc. Applied Mathematics and Informatics at [FH Aachen -
     <img src="https://github-readme-stats.vercel.app/api?username=niklasdie&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Niklas Diekhöner's github stats" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niklasdie&layout=compact&theme=radical&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api?username=niklasdie&show_icons=true&theme=radical" />
   </a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=niklasdie&label=Profile%20views&color=0e75b6&style=flat" alt="niklasdie" /> </p>
