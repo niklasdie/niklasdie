@@ -10,9 +10,8 @@ I'm currently studying B.Sc. Applied Mathematics and Informatics at [FH Aachen -
   </a>
 </p>
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=niklasdie&show_icons=true&theme=transparent)
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=niklasdie&theme=transparent)]
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=niklasdie&show_icons=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&hide_border=true&count_private=true" alt="Niklas's github stats" /></a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niklasdie&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=true&count_private=true" /></a>
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=niklasdie&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true&count_private=true" alt="Niklas's github stats" /></a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niklasdie&layout=compact&theme=transparent&hide_border=true&count_private=true" /></a>
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=niklasdie&label=Profile%20views&color=0e75b6&style=flat" alt="niklasdie" /> </p>
