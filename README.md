@@ -11,7 +11,7 @@ I'm currently studying B.Sc. Applied Mathematics and Informatics at [FH Aachen -
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=niklasdie&show_icons=true&include_all_commits=true&theme=transparent& hide_border=true&count_private=true" alt="Niklas's github stats" /></a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niklasdie&layout=compact&theme=transparent&hide_border=true&count_private=true" alt="Niklas's top langs" /></a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=niklasdie&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true&count_private=true" alt="Niklas's github stats" /></a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niklasdie&layout=compact&theme=transparent&hide_border=true&count_private=true" alt="Niklas's top langs" /></a>
 </p>
 
 <p align="center">
