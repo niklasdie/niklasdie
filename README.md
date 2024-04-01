@@ -1,7 +1,7 @@
 ## Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">
 
-I'm Niklas, a 22-year-old software developer based in Eschweiler, Germany.
-I'm currently studying B.Sc. Applied Mathematics and Informatics at [FH Aachen - University of Applied Sciences](https://www.fh-aachen.de/) and a trainee at CAE GmbH in Stolberg.
+My name is Niklas, a 23-year-old software developer based in Eschweiler, Germany.
+Currently, I'm working full-time as a software developer and studying M.Sc. Practical Computer Science at [FernUniversität in Hagen](https://www.fernuni-hagen.de/) and did my B.Sc. Applied Mathematics and Informatics at [FH Aachen - University of Applied Sciences](https://www.fh-aachen.de/).
 
 
 <p align="center">
