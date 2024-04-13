@@ -1,7 +1,7 @@
 ## Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">
 
 My name is Niklas, a 23-year-old software developer based in Eschweiler, Germany.
-Currently, I'm working full-time as a software developer and studying M.Sc. Practical Computer Science at [FernUniversität in Hagen](https://www.fernuni-hagen.de/) and did my B.Sc. Applied Mathematics and Informatics at [FH Aachen - University of Applied Sciences](https://www.fh-aachen.de/).
+Currently, I'm working full-time as a software developer and studying M. Sc. Practical Computer Science at [FernUniversität in Hagen](https://www.fernuni-hagen.de/). I did my B. Sc. Applied Mathematics and Informatics at [FH Aachen - University of Applied Sciences](https://www.fh-aachen.de/). You can find my (german) bachelor's thesis [here](https://github.com/niklasdie/Bachelorarbeit_RM).
 
 
 <p align="center">
